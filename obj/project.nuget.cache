@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/TU0LAWihN0=",
+  "dgSpecHash": "nxIO9KUnJKQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Shervin\\Desktop\\Scripts\\Csharp\\ASP\\GrpcSample\\GrpcSample.csproj",
   "expectedPackageFiles": [
@@ -8,10 +8,12 @@
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.aspnetcore\\2.67.0\\grpc.aspnetcore.2.67.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.aspnetcore.server\\2.67.0\\grpc.aspnetcore.server.2.67.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.67.0\\grpc.aspnetcore.server.clientfactory.2.67.0.nupkg.sha512",
+    "C:\\Users\\Shervin\\.nuget\\packages\\grpc.aspnetcore.server.reflection\\2.67.0\\grpc.aspnetcore.server.reflection.2.67.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.core.api\\2.67.0\\grpc.core.api.2.67.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.net.client\\2.67.0\\grpc.net.client.2.67.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.net.clientfactory\\2.67.0\\grpc.net.clientfactory.2.67.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.net.common\\2.67.0\\grpc.net.common.2.67.0.nupkg.sha512",
+    "C:\\Users\\Shervin\\.nuget\\packages\\grpc.reflection\\2.67.0\\grpc.reflection.2.67.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\grpc.tools\\2.69.0\\grpc.tools.2.69.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\Shervin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

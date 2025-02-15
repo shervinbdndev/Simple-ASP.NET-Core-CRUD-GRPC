@@ -32,3 +32,4 @@ C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\refint\G
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.pdb
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.genruntimeconfig.cache
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\ref\GrpcSample.dll
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.sourcelink.json
