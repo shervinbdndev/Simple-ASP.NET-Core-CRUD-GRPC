@@ -1,5 +1,7 @@
 syntax = "proto3";
 
+package GrpcSample.v1;
+
 option csharp_namespace = "GrpcSample";
 
 import "google/protobuf/empty.proto";

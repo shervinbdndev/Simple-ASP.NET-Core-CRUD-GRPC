@@ -8,16 +8,19 @@ C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\GrpcSamp
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Google.Protobuf.dll
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.AspNetCore.Server.Reflection.dll
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.Core.Api.dll
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.Net.Client.dll
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\bin\Debug\net8.0\Grpc.Reflection.dll
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.csproj.AssemblyReference.cache
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.AssemblyInfoInputs.cache
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.AssemblyInfo.cs
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.csproj.CoreCompileInputs.cache
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.sourcelink.json
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\staticwebassets\msbuild.GrpcSample.Microsoft.AspNetCore.StaticWebAssets.props
@@ -32,4 +35,3 @@ C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\refint\G
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.pdb
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.genruntimeconfig.cache
 C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\ref\GrpcSample.dll
-C:\Users\Shervin\Desktop\Scripts\Csharp\ASP\GrpcSample\obj\Debug\net8.0\GrpcSample.sourcelink.json

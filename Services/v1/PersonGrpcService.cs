@@ -1,7 +1,7 @@
 using Grpc.Core;
 using Google.Protobuf.WellKnownTypes;
 
-namespace GrpcSample.Services {
+namespace GrpcSample.Services.v1 {
 
     public class PersonGrpcService : PersonService.PersonServiceBase {
 

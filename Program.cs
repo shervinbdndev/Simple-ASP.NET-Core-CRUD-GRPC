@@ -1,9 +1,14 @@
-using GrpcSample.Services;
+using GrpcSample.Services.v1;
+using GrpcSample.Interceptors;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
-builder.Services.AddGrpc();
+builder.Services.AddGrpc(options => {
+    
+    options.EnableDetailedErrors = true;
+    options.Interceptors.Add<ExceptionInterceptor>();
+});
 builder.Services.AddGrpcReflection();
 
 
